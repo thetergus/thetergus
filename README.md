@@ -7,7 +7,13 @@
 - 🌱 I’m currently learning **Python**</br>
 - 💬 Ask me about **excessive install of extensions in VSC**
 </p>
-
+<p align="center">
+👨‍🎓 I've Graduated in April as a Full Stack Developer from Mission Ready, I am now finishing their continuation course</br>
+& soon I'll be embarking on the last part of the path towards walking in the tech industry with their guidance
+</p>  
+<p align="center">
+✈ Visit a again in a few months and take a look at my new projects!
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tergus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tergus" height="30" width="40" /></a>
