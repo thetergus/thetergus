@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.tenor.com/X2F2xUgi7I8AAAAC/lord-of-the-rings-the-hobbit.gif"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetergus&label=Profile%20views&color=0e75b6&style=flat" alt="thetergus" /> </p>
 <p align="center">
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**</br>
 - 💬 Ask me about **excessive install of extensions in VSC**
 </p>
 
