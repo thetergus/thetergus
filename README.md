@@ -1,6 +1,6 @@
 <h1 align="center">/*Hello!*/ I'm Tergus</h1>
 <h3 align="center">A Full Stack Developer from New Zealand</h3>
-<p align=centre><img src="https://media.tenor.com/X2F2xUgi7I8AAAAC/lord-of-the-rings-the-hobbit.gif"><p>
+<p align=centre><img src="https://media.tenor.com/X2F2xUgi7I8AAAAC/lord-of-the-rings-the-hobbit.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetergus&label=Profile%20views&color=0e75b6&style=flat" alt="thetergus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetergus" alt="thetergus" /></a> </p>
