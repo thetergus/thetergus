@@ -12,7 +12,7 @@
 & soon I'll be embarking on the last part of the path towards walking in the tech industry with their guidance
 </p>  
 <p align="center">
-✈ Visit a again in a few months and take a look at my new projects!
+✈ Visit again in a few months and take a look at my new projects!
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
